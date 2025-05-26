@@ -1,0 +1,12 @@
+-I .
+-R . Lexing
+
+src/coq/Languages.v
+src/coq/Regular.v
+src/coq/ListUtils.v
+src/coq/RegOrder.v
+src/coq/Similar.v
+src/coq/Finiteness.v
+src/coq/Explore.v
+src/coq/EquivDec.v
+src/coq/Test.v
